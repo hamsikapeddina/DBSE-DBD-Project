@@ -1,20 +1,23 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+dbse-and-dbd-project-production.up.railway.app Women Safety Platform
 
-# Run and deploy your AI Studio app
+A full-stack web application built to provide quick and simple safety support in emergency situations.
 
-This contains everything you need to run your app locally.
+Features
 
-View your app in AI Studio: https://ai.studio/apps/b984b5c3-e308-43ba-ace0-24a1636f8c03
+User authentication and profile management
+Emergency contacts
+SOS emergency system with location support
+Safety zones and safe places
+Safety network and check-ins
+Evidence and alert management
+Tech Stack
 
-## Run Locally
+React, Vite, Tailwind CSS, Node.js, Express.js, MySQL, JWT, Google Maps, Google Places and Gemini AI.
 
-**Prerequisites:**  Node.js
+Live Demo
 
+https://dbse-and-dbd-project-production.up.railway.app
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Deployment
+
+Deployed using Railway with MySQL database support.
